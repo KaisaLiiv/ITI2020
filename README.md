@@ -27,7 +27,7 @@ Kodulehe projekt
   </tr>
 </table>
 
-<img src="https://iot.ttu.ee/iseauto-saamislugu-1/" alt="W3Schools.com">
+<img src="https://iot.ttu.ee/iseauto-saamislugu-1/" alt="iot.ttu.ee">
 <a href="https://taltech.ee/">TalTech</a>
 
 </body>
