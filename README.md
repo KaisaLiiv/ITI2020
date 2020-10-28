@@ -14,16 +14,17 @@ Kodulehe projekt
   <tr>
     <th>Smile</th>
     <th>More</th>
+    <th>and more</th>
   </tr>
   <tr>
     <td>:)</td>
     <td>:) :)</td>
-    <td>50</td>
+    <td>:) :)</td>
   </tr>
   <tr>
     <td>:D</td>
-    <td>:D</td>
-    <td>:(</td>
+    <td>:D :D </td>
+    <td>:D :D :D</td>
   </tr>
 </table>
 
