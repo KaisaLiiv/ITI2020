@@ -25,7 +25,7 @@
 </table>
 
 <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
-<a href="https://www.w3schools.com/html/default.asp">HTML tutorial</a>
+<a href="https://taltech.ee/">TalTech</a>
 
 </body>
 </html>
